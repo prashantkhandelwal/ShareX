@@ -106,10 +106,6 @@ namespace ShareX.UploadersLib
         Gfycat,
         [Description("Pushbullet")]
         Pushbullet,
-        [Description("MediaCrush")]
-        MediaCrush,
-        [Description("RapidShare")]
-        RapidShare,
         [Description("SendSpace")]
         SendSpace,
         [Description("Minus")]
@@ -136,6 +132,8 @@ namespace ShareX.UploadersLib
         Google,
         [Description("is.gd")]
         ISGD,
+        [Description("v.gd")]
+        VGD,
         [Description("tinyurl.com")]
         TINYURL,
         [Description("turl.ca")]

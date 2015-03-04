@@ -44,14 +44,16 @@ namespace ShareX.HelpersLib
 
         private FunctionManager functionManager = new FunctionManager();
         private Tokenizer tokenizer = new Tokenizer();
+        private bool closing;
 
         private AutomateForm(List<ScriptInfo> scripts)
         {
             InitializeComponent();
             Icon = ShareXResources.Icon;
+            rtbInput.AddContextMenu();
             tokenizer.Keywords = FunctionManager.Functions.Select(x => x.Key).ToArray();
             cbFunctions.Items.AddRange(tokenizer.Keywords);
-            cbKeys.Items.AddRange(Enum.GetNames(typeof(Keys)));
+            cbKeys.Items.AddRange(Enum.GetNames(typeof(Keys)).Skip(1).ToArray());
             Tokenize();
 
             Scripts = scripts;
@@ -64,6 +66,10 @@ namespace ShareX.HelpersLib
             if (lvScripts.Items.Count > 0)
             {
                 lvScripts.Items[0].Selected = true;
+            }
+            else
+            {
+                SetExample();
             }
         }
 
@@ -100,7 +106,6 @@ namespace ShareX.HelpersLib
         {
             int start = rtbInput.SelectionStart;
             int length = rtbInput.SelectionLength;
-
             rtbInput.BeginUpdate();
 
             foreach (Token token in tokens)
@@ -133,7 +138,8 @@ namespace ShareX.HelpersLib
                 rtbInput.SelectionColor = color;
             }
 
-            rtbInput.Select(start, length);
+            rtbInput.SelectionStart = start;
+            rtbInput.SelectionLength = length;
             rtbInput.EndUpdate();
         }
 
@@ -154,51 +160,10 @@ namespace ShareX.HelpersLib
 
         public void Stop()
         {
-            if (IsRunning)
-            {
-                functionManager.Stop();
-                btnRun.Text = Resources.Start;
-                IsRunning = false;
-            }
+            functionManager.Stop();
         }
 
-        private void btnRun_Click(object sender, EventArgs e)
-        {
-            lock (this)
-            {
-                if (IsRunning)
-                {
-                    Stop();
-                }
-                else
-                {
-                    Start();
-                }
-            }
-        }
-
-        private void bw_DoWork(object sender, DoWorkEventArgs e)
-        {
-            string[] lines = e.Argument as string[];
-
-            try
-            {
-                functionManager.Compile(lines);
-                functionManager.Start();
-            }
-            catch (Exception ex)
-            {
-                MessageBox.Show(ex.ToString(), Resources.Error, MessageBoxButtons.OK, MessageBoxIcon.Error);
-            }
-        }
-
-        private void bw_RunWorkerCompleted(object sender, RunWorkerCompletedEventArgs e)
-        {
-            Stop();
-            this.ShowActivate();
-        }
-
-        private void btnLoadExample_Click(object sender, EventArgs e)
+        private void SetExample()
         {
             rtbInput.Text = @"""This is comment""
 Wait 3000
@@ -212,6 +177,7 @@ Func KeyboardFunctions
 KeyDown Space
 KeyUp Space
 KeyPress A
+KeyPress Ctrl Shift Alt A
 KeyPressText ""Test 123""
 
 Func MouseFunctions
@@ -225,6 +191,50 @@ MouseWheel 120
 Func LoopTest
 Wait 1000
 KeyPressText ""Loop""";
+        }
+
+        private void btnRun_Click(object sender, EventArgs e)
+        {
+            if (IsRunning)
+            {
+                Stop();
+            }
+            else
+            {
+                Start();
+            }
+        }
+
+        private void bw_DoWork(object sender, DoWorkEventArgs e)
+        {
+            string[] lines = e.Argument as string[];
+
+            try
+            {
+                functionManager.Compile(lines);
+                functionManager.Start();
+                Thread.Sleep(100);
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.ToString(), Resources.Error, MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+        }
+
+        private void bw_RunWorkerCompleted(object sender, RunWorkerCompletedEventArgs e)
+        {
+            IsRunning = false;
+
+            if (!closing)
+            {
+                btnRun.Text = Resources.Start;
+                this.ShowActivate();
+            }
+        }
+
+        private void btnLoadExample_Click(object sender, EventArgs e)
+        {
+            SetExample();
         }
 
         private void btnSaveScript_Click(object sender, EventArgs e)
@@ -308,6 +318,12 @@ KeyPressText ""Loop""";
             });
 
             thread.Start();
+        }
+
+        private void AutomateForm_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            closing = true;
+            Stop();
         }
     }
 }

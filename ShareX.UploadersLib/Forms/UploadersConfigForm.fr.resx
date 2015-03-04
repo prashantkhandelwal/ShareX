@@ -225,9 +225,6 @@
   <data name="cbOwnCloudDirectLink.Text" xml:space="preserve">
     <value>Lien direct (ajoute "&amp;&amp;download" à l'URL)</value>
   </data>
-  <data name="cbMediaCrushDirectLink.Text" xml:space="preserve">
-    <value>Lien direct (Ajoute "/direct" à l'URL)</value>
-  </data>
   <data name="cbCheveretoDirectURL.Text" xml:space="preserve">
     <value>URL directe</value>
   </data>
@@ -268,7 +265,7 @@
     <value>Nom du fichier de formulaire:</value>
   </data>
   <data name="lblCustomUploaderFileUploader.Text" xml:space="preserve">
-    <value>Logiciel de mise en ligne des fichiers</value>
+    <value>Logiciel de mise en ligne des fichiers:</value>
   </data>
   <data name="tpFileUploaders.Text" xml:space="preserve">
     <value>Logiciel de mise en ligne des fichiers</value>
@@ -281,9 +278,6 @@
   </data>
   <data name="lblGoogleDriveFolderID.Text" xml:space="preserve">
     <value>ID du répertoire:</value>
-  </data>
-  <data name="lblRapidShareFolderID.Text" xml:space="preserve">
-    <value>ID du répertoire pour la mise en ligne:</value>
   </data>
   <data name="chBoxFoldersName.Text" xml:space="preserve">
     <value>Nom du répertoire</value>
@@ -387,9 +381,6 @@
   <data name="lblMegaPassword.Text" xml:space="preserve">
     <value>Mot de passe:</value>
   </data>
-  <data name="lblRapidSharePassword.Text" xml:space="preserve">
-    <value>Mot de passe:</value>
-  </data>
   <data name="lblTinyPicPassword.Text" xml:space="preserve">
     <value>Mot de passe:</value>
   </data>
@@ -427,9 +418,6 @@
     <value>Nom d'utilisateur:</value>
   </data>
   <data name="lblImageShackUsername.Text" xml:space="preserve">
-    <value>Nom d'utilisateur:</value>
-  </data>
-  <data name="lblRapidSharePremiumUsername.Text" xml:space="preserve">
     <value>Nom d'utilisateur:</value>
   </data>
   <data name="lblSendSpaceUsername.Text" xml:space="preserve">
@@ -537,9 +525,6 @@
   <data name="btnBoxRefreshFolders.Text" xml:space="preserve">
     <value>Rafraîchir la liste des répertoires</value>
   </data>
-  <data name="btnRapidShareRefreshFolders.Text" xml:space="preserve">
-    <value>Rafraîchir la liste des répertoires</value>
-  </data>
   <data name="gbCustomUploaderRegexp.Text" xml:space="preserve">
     <value>Région</value>
   </data>
@@ -601,7 +586,7 @@
     <value>Type de réponse:</value>
   </data>
   <data name="btnCustomUploaderShowLastResponse.Text" xml:space="preserve">
-    <value>Afficher la dernière réponse ...</value>
+    <value>Afficher la dernière réponse...</value>
   </data>
   <data name="btnFlickrOpenAuthorize.Text" xml:space="preserve">
     <value>Étape 1: Ouvrir la page d'autorisation...</value>
@@ -664,10 +649,10 @@
     <value>Modèle</value>
   </data>
   <data name="lblCustomUploaderTextUploader.Text" xml:space="preserve">
-    <value>Logiciel de mise en ligne des Textes</value>
+    <value>Logiciel de mise en ligne des Textes:</value>
   </data>
   <data name="tpTextUploaders.Text" xml:space="preserve">
-    <value>Logiciel de mise en ligne des Textes:</value>
+    <value>Logiciel de mise en ligne des Textes</value>
   </data>
   <data name="lblMediaFirePath.Text" xml:space="preserve">
     <value>Chemin de mise en ligne</value>

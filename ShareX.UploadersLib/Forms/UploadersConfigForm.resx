@@ -746,10 +746,10 @@ For example, if your bucket is called bucket.example.com then URL will be http:/
     <value>NoControl</value>
   </data>
   <data name="btnCustomUploaderExamples.Location" type="System.Drawing.Point, System.Drawing">
-    <value>528, 376</value>
+    <value>512, 376</value>
   </data>
   <data name="btnCustomUploaderExamples.Size" type="System.Drawing.Size, System.Drawing">
-    <value>88, 24</value>
+    <value>104, 24</value>
   </data>
   <data name="btnCustomUploaderExamples.TabIndex" type="System.Int32, mscorlib">
     <value>32</value>
@@ -773,10 +773,10 @@ For example, if your bucket is called bucket.example.com then URL will be http:/
     <value>NoControl</value>
   </data>
   <data name="btnCustomUploaderHelp.Location" type="System.Drawing.Point, System.Drawing">
-    <value>432, 376</value>
+    <value>400, 376</value>
   </data>
   <data name="btnCustomUploaderHelp.Size" type="System.Drawing.Size, System.Drawing">
-    <value>88, 24</value>
+    <value>104, 24</value>
   </data>
   <data name="btnCustomUploaderHelp.TabIndex" type="System.Int32, mscorlib">
     <value>31</value>
@@ -803,7 +803,7 @@ For example, if your bucket is called bucket.example.com then URL will be http:/
     <value>NoControl</value>
   </data>
   <data name="lblCustomUploaderImageUploader.Location" type="System.Drawing.Point, System.Drawing">
-    <value>16, 392</value>
+    <value>5, 328</value>
   </data>
   <data name="lblCustomUploaderImageUploader.Size" type="System.Drawing.Size, System.Drawing">
     <value>83, 13</value>
@@ -830,7 +830,7 @@ For example, if your bucket is called bucket.example.com then URL will be http:/
     <value>NoControl</value>
   </data>
   <data name="btnCustomUploaderClear.Location" type="System.Drawing.Point, System.Drawing">
-    <value>8, 344</value>
+    <value>8, 8</value>
   </data>
   <data name="btnCustomUploaderClear.Size" type="System.Drawing.Size, System.Drawing">
     <value>248, 24</value>
@@ -857,10 +857,10 @@ For example, if your bucket is called bucket.example.com then URL will be http:/
     <value>NoControl</value>
   </data>
   <data name="btnCustomUploaderFileUploaderTest.Location" type="System.Drawing.Point, System.Drawing">
-    <value>264, 436</value>
+    <value>192, 422</value>
   </data>
   <data name="btnCustomUploaderFileUploaderTest.Size" type="System.Drawing.Size, System.Drawing">
-    <value>56, 24</value>
+    <value>64, 24</value>
   </data>
   <data name="btnCustomUploaderFileUploaderTest.TabIndex" type="System.Int32, mscorlib">
     <value>25</value>
@@ -887,7 +887,7 @@ For example, if your bucket is called bucket.example.com then URL will be http:/
     <value>NoControl</value>
   </data>
   <data name="lblCustomUploaderFileUploader.Location" type="System.Drawing.Point, System.Drawing">
-    <value>16, 440</value>
+    <value>5, 408</value>
   </data>
   <data name="lblCustomUploaderFileUploader.Size" type="System.Drawing.Size, System.Drawing">
     <value>70, 13</value>
@@ -914,10 +914,10 @@ For example, if your bucket is called bucket.example.com then URL will be http:/
     <value>NoControl</value>
   </data>
   <data name="btnCustomUploaderImageUploaderTest.Location" type="System.Drawing.Point, System.Drawing">
-    <value>264, 388</value>
+    <value>192, 342</value>
   </data>
   <data name="btnCustomUploaderImageUploaderTest.Size" type="System.Drawing.Size, System.Drawing">
-    <value>56, 24</value>
+    <value>64, 24</value>
   </data>
   <data name="btnCustomUploaderImageUploaderTest.TabIndex" type="System.Int32, mscorlib">
     <value>19</value>
@@ -944,7 +944,7 @@ For example, if your bucket is called bucket.example.com then URL will be http:/
     <value>NoControl</value>
   </data>
   <data name="lblCustomUploaderTestResult.Location" type="System.Drawing.Point, System.Drawing">
-    <value>328, 384</value>
+    <value>269, 384</value>
   </data>
   <data name="lblCustomUploaderTestResult.Size" type="System.Drawing.Size, System.Drawing">
     <value>59, 13</value>
@@ -989,10 +989,10 @@ For example, if your bucket is called bucket.example.com then URL will be http:/
     <value>8</value>
   </data>
   <data name="cbCustomUploaderFileUploader.Location" type="System.Drawing.Point, System.Drawing">
-    <value>120, 436</value>
+    <value>8, 424</value>
   </data>
   <data name="cbCustomUploaderFileUploader.Size" type="System.Drawing.Size, System.Drawing">
-    <value>136, 21</value>
+    <value>176, 21</value>
   </data>
   <data name="cbCustomUploaderFileUploader.TabIndex" type="System.Int32, mscorlib">
     <value>24</value>
@@ -1100,10 +1100,10 @@ For example, if your bucket is called bucket.example.com then URL will be http:/
     <value>12</value>
   </data>
   <data name="cbCustomUploaderURLShortener.Location" type="System.Drawing.Point, System.Drawing">
-    <value>120, 460</value>
+    <value>8, 464</value>
   </data>
   <data name="cbCustomUploaderURLShortener.Size" type="System.Drawing.Size, System.Drawing">
-    <value>136, 21</value>
+    <value>176, 21</value>
   </data>
   <data name="cbCustomUploaderURLShortener.TabIndex" type="System.Int32, mscorlib">
     <value>27</value>
@@ -1193,10 +1193,10 @@ For example, if your bucket is called bucket.example.com then URL will be http:/
     <value>5</value>
   </data>
   <data name="gbCustomUploaders.Location" type="System.Drawing.Point, System.Drawing">
-    <value>8, 8</value>
+    <value>8, 40</value>
   </data>
   <data name="gbCustomUploaders.Size" type="System.Drawing.Size, System.Drawing">
-    <value>248, 328</value>
+    <value>248, 280</value>
   </data>
   <data name="gbCustomUploaders.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -1217,7 +1217,7 @@ For example, if your bucket is called bucket.example.com then URL will be http:/
     <value>14</value>
   </data>
   <data name="eiCustomUploaders.Location" type="System.Drawing.Point, System.Drawing">
-    <value>8, 296</value>
+    <value>8, 248</value>
   </data>
   <data name="eiCustomUploaders.Size" type="System.Drawing.Size, System.Drawing">
     <value>192, 26</value>
@@ -1244,7 +1244,7 @@ For example, if your bucket is called bucket.example.com then URL will be http:/
     <value>8, 72</value>
   </data>
   <data name="lbCustomUploaderList.Size" type="System.Drawing.Size, System.Drawing">
-    <value>232, 216</value>
+    <value>232, 168</value>
   </data>
   <data name="lbCustomUploaderList.TabIndex" type="System.Int32, mscorlib">
     <value>4</value>
@@ -1370,7 +1370,7 @@ For example, if your bucket is called bucket.example.com then URL will be http:/
     <value>NoControl</value>
   </data>
   <data name="lblCustomUploaderTextUploader.Location" type="System.Drawing.Point, System.Drawing">
-    <value>16, 416</value>
+    <value>5, 368</value>
   </data>
   <data name="lblCustomUploaderTextUploader.Size" type="System.Drawing.Size, System.Drawing">
     <value>75, 13</value>
@@ -1427,10 +1427,10 @@ For example, if your bucket is called bucket.example.com then URL will be http:/
     <value>NoControl</value>
   </data>
   <data name="btnCustomUploaderURLShortenerTest.Location" type="System.Drawing.Point, System.Drawing">
-    <value>264, 460</value>
+    <value>192, 462</value>
   </data>
   <data name="btnCustomUploaderURLShortenerTest.Size" type="System.Drawing.Size, System.Drawing">
-    <value>56, 24</value>
+    <value>64, 24</value>
   </data>
   <data name="btnCustomUploaderURLShortenerTest.TabIndex" type="System.Int32, mscorlib">
     <value>28</value>
@@ -1661,10 +1661,10 @@ For example, if your bucket is called bucket.example.com then URL will be http:/
     <value>4</value>
   </data>
   <data name="cbCustomUploaderTextUploader.Location" type="System.Drawing.Point, System.Drawing">
-    <value>120, 412</value>
+    <value>8, 384</value>
   </data>
   <data name="cbCustomUploaderTextUploader.Size" type="System.Drawing.Size, System.Drawing">
-    <value>136, 21</value>
+    <value>176, 21</value>
   </data>
   <data name="cbCustomUploaderTextUploader.TabIndex" type="System.Int32, mscorlib">
     <value>21</value>
@@ -1709,7 +1709,7 @@ For example, if your bucket is called bucket.example.com then URL will be http:/
     <value>NoControl</value>
   </data>
   <data name="lblCustomUploaderURLShortener.Location" type="System.Drawing.Point, System.Drawing">
-    <value>16, 464</value>
+    <value>5, 448</value>
   </data>
   <data name="lblCustomUploaderURLShortener.Size" type="System.Drawing.Size, System.Drawing">
     <value>79, 13</value>
@@ -1757,10 +1757,10 @@ For example, if your bucket is called bucket.example.com then URL will be http:/
     <value>NoControl</value>
   </data>
   <data name="btnCustomUploaderTextUploaderTest.Location" type="System.Drawing.Point, System.Drawing">
-    <value>264, 412</value>
+    <value>192, 382</value>
   </data>
   <data name="btnCustomUploaderTextUploaderTest.Size" type="System.Drawing.Size, System.Drawing">
-    <value>56, 24</value>
+    <value>64, 24</value>
   </data>
   <data name="btnCustomUploaderTextUploaderTest.TabIndex" type="System.Int32, mscorlib">
     <value>22</value>
@@ -1802,10 +1802,10 @@ For example, if your bucket is called bucket.example.com then URL will be http:/
     <value>24</value>
   </data>
   <data name="cbCustomUploaderImageUploader.Location" type="System.Drawing.Point, System.Drawing">
-    <value>120, 388</value>
+    <value>8, 344</value>
   </data>
   <data name="cbCustomUploaderImageUploader.Size" type="System.Drawing.Size, System.Drawing">
-    <value>136, 21</value>
+    <value>176, 21</value>
   </data>
   <data name="cbCustomUploaderImageUploader.TabIndex" type="System.Int32, mscorlib">
     <value>18</value>
@@ -1844,10 +1844,10 @@ For example, if your bucket is called bucket.example.com then URL will be http:/
     <value>26</value>
   </data>
   <data name="txtCustomUploaderLog.Location" type="System.Drawing.Point, System.Drawing">
-    <value>328, 408</value>
+    <value>272, 408</value>
   </data>
   <data name="txtCustomUploaderLog.Size" type="System.Drawing.Size, System.Drawing">
-    <value>456, 72</value>
+    <value>512, 72</value>
   </data>
   <data name="txtCustomUploaderLog.TabIndex" type="System.Int32, mscorlib">
     <value>30</value>
@@ -3868,105 +3868,6 @@ For example, if your bucket is called bucket.example.com then URL will be http:/
   <data name="&gt;&gt;tpBox.ZOrder" xml:space="preserve">
     <value>4</value>
   </data>
-  <data name="pbCopyLogo.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
-    <value>
-        /9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAIBAQIBAQICAgICAgICAwUDAwMDAwYEBAMFBwYHBwcGBwcI
-        CQsJCAgKCAcHCg0KCgsMDAwMBwkODw0MDgsMDAz/2wBDAQICAgMDAwYDAwYMCAcIDAwMDAwMDAwMDAwM
-        DAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAz/wAARCABAAMkDASIAAhEBAxEB/8QA
-        HwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIh
-        MUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVW
-        V1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXG
-        x8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQF
-        BgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAV
-        YnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOE
-        hYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq
-        8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD9/KKKKACiiigAopGcKeTS5oAKKKKACiisP4j/ABB0n4WeBdV8
-        Ra5dLZ6Vo1u11cyt/CqjoB3YnAA6kkDqaqMXKSjFXbM61aFKDq1GlGKbbeiSWrbfZHO/EX40x+FPir4N
-        8G2Kx3eueKp5pmjPSzsYIy807Y6ZbZGgPVnPUK2O8QkrzXxb/wAE2vFmqftQ/tEfEz4va1C0Ue2HRNIh
-        JDJZwsTKYR/tRxrb5YY3NNIeM4r7Ur084wKwVdYV/FFLm/xPVr5JpeqZ8vwbns86wUs1WlKpOXsls/Zx
-        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
-</value>
-  </data>
-  <data name="pbCopyLogo.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="pbCopyLogo.Location" type="System.Drawing.Point, System.Drawing">
-    <value>16, 16</value>
-  </data>
-  <data name="pbCopyLogo.Size" type="System.Drawing.Size, System.Drawing">
-    <value>216, 64</value>
-  </data>
-  <data name="pbCopyLogo.TabIndex" type="System.Int32, mscorlib">
-    <value>19</value>
-  </data>
   <data name="&gt;&gt;pbCopyLogo.Name" xml:space="preserve">
     <value>pbCopyLogo</value>
   </data>
@@ -3978,24 +3879,6 @@ For example, if your bucket is called bucket.example.com then URL will be http:/
   </data>
   <data name="&gt;&gt;pbCopyLogo.ZOrder" xml:space="preserve">
     <value>0</value>
-  </data>
-  <data name="lblCopyURLType.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="lblCopyURLType.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="lblCopyURLType.Location" type="System.Drawing.Point, System.Drawing">
-    <value>13, 344</value>
-  </data>
-  <data name="lblCopyURLType.Size" type="System.Drawing.Size, System.Drawing">
-    <value>55, 13</value>
-  </data>
-  <data name="lblCopyURLType.TabIndex" type="System.Int32, mscorlib">
-    <value>4</value>
-  </data>
-  <data name="lblCopyURLType.Text" xml:space="preserve">
-    <value>URL type:</value>
   </data>
   <data name="&gt;&gt;lblCopyURLType.Name" xml:space="preserve">
     <value>lblCopyURLType</value>
@@ -4009,15 +3892,6 @@ For example, if your bucket is called bucket.example.com then URL will be http:/
   <data name="&gt;&gt;lblCopyURLType.ZOrder" xml:space="preserve">
     <value>1</value>
   </data>
-  <data name="cbCopyURLType.Location" type="System.Drawing.Point, System.Drawing">
-    <value>16, 360</value>
-  </data>
-  <data name="cbCopyURLType.Size" type="System.Drawing.Size, System.Drawing">
-    <value>121, 21</value>
-  </data>
-  <data name="cbCopyURLType.TabIndex" type="System.Int32, mscorlib">
-    <value>5</value>
-  </data>
   <data name="&gt;&gt;cbCopyURLType.Name" xml:space="preserve">
     <value>cbCopyURLType</value>
   </data>
@@ -4029,27 +3903,6 @@ For example, if your bucket is called bucket.example.com then URL will be http:/
   </data>
   <data name="&gt;&gt;cbCopyURLType.ZOrder" xml:space="preserve">
     <value>2</value>
-  </data>
-  <data name="lblCopyStatus.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="lblCopyStatus.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 9.75pt</value>
-  </data>
-  <data name="lblCopyStatus.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="lblCopyStatus.Location" type="System.Drawing.Point, System.Drawing">
-    <value>13, 393</value>
-  </data>
-  <data name="lblCopyStatus.Size" type="System.Drawing.Size, System.Drawing">
-    <value>45, 16</value>
-  </data>
-  <data name="lblCopyStatus.TabIndex" type="System.Int32, mscorlib">
-    <value>6</value>
-  </data>
-  <data name="lblCopyStatus.Text" xml:space="preserve">
-    <value>Status</value>
   </data>
   <data name="&gt;&gt;lblCopyStatus.Name" xml:space="preserve">
     <value>lblCopyStatus</value>
@@ -4063,24 +3916,6 @@ For example, if your bucket is called bucket.example.com then URL will be http:/
   <data name="&gt;&gt;lblCopyStatus.ZOrder" xml:space="preserve">
     <value>3</value>
   </data>
-  <data name="lblCopyPath.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="lblCopyPath.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="lblCopyPath.Location" type="System.Drawing.Point, System.Drawing">
-    <value>13, 296</value>
-  </data>
-  <data name="lblCopyPath.Size" type="System.Drawing.Size, System.Drawing">
-    <value>68, 13</value>
-  </data>
-  <data name="lblCopyPath.TabIndex" type="System.Int32, mscorlib">
-    <value>2</value>
-  </data>
-  <data name="lblCopyPath.Text" xml:space="preserve">
-    <value>Upload path:</value>
-  </data>
   <data name="&gt;&gt;lblCopyPath.Name" xml:space="preserve">
     <value>lblCopyPath</value>
   </data>
@@ -4093,15 +3928,6 @@ For example, if your bucket is called bucket.example.com then URL will be http:/
   <data name="&gt;&gt;lblCopyPath.ZOrder" xml:space="preserve">
     <value>4</value>
   </data>
-  <data name="txtCopyPath.Location" type="System.Drawing.Point, System.Drawing">
-    <value>16, 312</value>
-  </data>
-  <data name="txtCopyPath.Size" type="System.Drawing.Size, System.Drawing">
-    <value>320, 20</value>
-  </data>
-  <data name="txtCopyPath.TabIndex" type="System.Int32, mscorlib">
-    <value>3</value>
-  </data>
   <data name="&gt;&gt;txtCopyPath.Name" xml:space="preserve">
     <value>txtCopyPath</value>
   </data>
@@ -4113,15 +3939,6 @@ For example, if your bucket is called bucket.example.com then URL will be http:/
   </data>
   <data name="&gt;&gt;txtCopyPath.ZOrder" xml:space="preserve">
     <value>5</value>
-  </data>
-  <data name="oAuthCopy.Location" type="System.Drawing.Point, System.Drawing">
-    <value>16, 88</value>
-  </data>
-  <data name="oAuthCopy.Size" type="System.Drawing.Size, System.Drawing">
-    <value>328, 208</value>
-  </data>
-  <data name="oAuthCopy.TabIndex" type="System.Int32, mscorlib">
-    <value>1</value>
   </data>
   <data name="&gt;&gt;oAuthCopy.Name" xml:space="preserve">
     <value>oAuthCopy</value>
@@ -4981,129 +4798,6 @@ For example, if your bucket is called bucket.example.com then URL will be http:/
   <data name="&gt;&gt;tpPushbullet.ZOrder" xml:space="preserve">
     <value>11</value>
   </data>
-  <data name="&gt;&gt;txtRapidShareFolderID.Name" xml:space="preserve">
-    <value>txtRapidShareFolderID</value>
-  </data>
-  <data name="&gt;&gt;txtRapidShareFolderID.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;txtRapidShareFolderID.Parent" xml:space="preserve">
-    <value>tpRapidShare</value>
-  </data>
-  <data name="&gt;&gt;txtRapidShareFolderID.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;lblRapidShareFolderID.Name" xml:space="preserve">
-    <value>lblRapidShareFolderID</value>
-  </data>
-  <data name="&gt;&gt;lblRapidShareFolderID.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;lblRapidShareFolderID.Parent" xml:space="preserve">
-    <value>tpRapidShare</value>
-  </data>
-  <data name="&gt;&gt;lblRapidShareFolderID.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="&gt;&gt;btnRapidShareRefreshFolders.Name" xml:space="preserve">
-    <value>btnRapidShareRefreshFolders</value>
-  </data>
-  <data name="&gt;&gt;btnRapidShareRefreshFolders.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;btnRapidShareRefreshFolders.Parent" xml:space="preserve">
-    <value>tpRapidShare</value>
-  </data>
-  <data name="&gt;&gt;btnRapidShareRefreshFolders.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="&gt;&gt;tvRapidShareFolders.Name" xml:space="preserve">
-    <value>tvRapidShareFolders</value>
-  </data>
-  <data name="&gt;&gt;tvRapidShareFolders.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TreeView, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;tvRapidShareFolders.Parent" xml:space="preserve">
-    <value>tpRapidShare</value>
-  </data>
-  <data name="&gt;&gt;tvRapidShareFolders.ZOrder" xml:space="preserve">
-    <value>3</value>
-  </data>
-  <data name="&gt;&gt;lblRapidSharePassword.Name" xml:space="preserve">
-    <value>lblRapidSharePassword</value>
-  </data>
-  <data name="&gt;&gt;lblRapidSharePassword.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;lblRapidSharePassword.Parent" xml:space="preserve">
-    <value>tpRapidShare</value>
-  </data>
-  <data name="&gt;&gt;lblRapidSharePassword.ZOrder" xml:space="preserve">
-    <value>4</value>
-  </data>
-  <data name="&gt;&gt;lblRapidSharePremiumUsername.Name" xml:space="preserve">
-    <value>lblRapidSharePremiumUsername</value>
-  </data>
-  <data name="&gt;&gt;lblRapidSharePremiumUsername.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;lblRapidSharePremiumUsername.Parent" xml:space="preserve">
-    <value>tpRapidShare</value>
-  </data>
-  <data name="&gt;&gt;lblRapidSharePremiumUsername.ZOrder" xml:space="preserve">
-    <value>5</value>
-  </data>
-  <data name="&gt;&gt;txtRapidSharePassword.Name" xml:space="preserve">
-    <value>txtRapidSharePassword</value>
-  </data>
-  <data name="&gt;&gt;txtRapidSharePassword.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;txtRapidSharePassword.Parent" xml:space="preserve">
-    <value>tpRapidShare</value>
-  </data>
-  <data name="&gt;&gt;txtRapidSharePassword.ZOrder" xml:space="preserve">
-    <value>6</value>
-  </data>
-  <data name="&gt;&gt;txtRapidShareUsername.Name" xml:space="preserve">
-    <value>txtRapidShareUsername</value>
-  </data>
-  <data name="&gt;&gt;txtRapidShareUsername.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;txtRapidShareUsername.Parent" xml:space="preserve">
-    <value>tpRapidShare</value>
-  </data>
-  <data name="&gt;&gt;txtRapidShareUsername.ZOrder" xml:space="preserve">
-    <value>7</value>
-  </data>
-  <data name="tpRapidShare.Location" type="System.Drawing.Point, System.Drawing">
-    <value>4, 40</value>
-  </data>
-  <data name="tpRapidShare.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>3, 3, 3, 3</value>
-  </data>
-  <data name="tpRapidShare.Size" type="System.Drawing.Size, System.Drawing">
-    <value>972, 475</value>
-  </data>
-  <data name="tpRapidShare.TabIndex" type="System.Int32, mscorlib">
-    <value>5</value>
-  </data>
-  <data name="tpRapidShare.Text" xml:space="preserve">
-    <value>RapidShare</value>
-  <comment>@Invariant</comment></data>
-  <data name="&gt;&gt;tpRapidShare.Name" xml:space="preserve">
-    <value>tpRapidShare</value>
-  </data>
-  <data name="&gt;&gt;tpRapidShare.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;tpRapidShare.Parent" xml:space="preserve">
-    <value>tcFileUploaders</value>
-  </data>
-  <data name="&gt;&gt;tpRapidShare.ZOrder" xml:space="preserve">
-    <value>12</value>
-  </data>
   <data name="&gt;&gt;btnSendSpaceRegister.Name" xml:space="preserve">
     <value>btnSendSpaceRegister</value>
   </data>
@@ -5201,46 +4895,7 @@ For example, if your bucket is called bucket.example.com then URL will be http:/
     <value>tcFileUploaders</value>
   </data>
   <data name="&gt;&gt;tpSendSpace.ZOrder" xml:space="preserve">
-    <value>13</value>
-  </data>
-  <data name="&gt;&gt;cbMediaCrushDirectLink.Name" xml:space="preserve">
-    <value>cbMediaCrushDirectLink</value>
-  </data>
-  <data name="&gt;&gt;cbMediaCrushDirectLink.Type" xml:space="preserve">
-    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;cbMediaCrushDirectLink.Parent" xml:space="preserve">
-    <value>tpMediaCrush</value>
-  </data>
-  <data name="&gt;&gt;cbMediaCrushDirectLink.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="tpMediaCrush.Location" type="System.Drawing.Point, System.Drawing">
-    <value>4, 40</value>
-  </data>
-  <data name="tpMediaCrush.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>3, 3, 3, 3</value>
-  </data>
-  <data name="tpMediaCrush.Size" type="System.Drawing.Size, System.Drawing">
-    <value>972, 475</value>
-  </data>
-  <data name="tpMediaCrush.TabIndex" type="System.Int32, mscorlib">
-    <value>18</value>
-  </data>
-  <data name="tpMediaCrush.Text" xml:space="preserve">
-    <value>MediaCrush</value>
-  <comment>@Invariant</comment></data>
-  <data name="&gt;&gt;tpMediaCrush.Name" xml:space="preserve">
-    <value>tpMediaCrush</value>
-  </data>
-  <data name="&gt;&gt;tpMediaCrush.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;tpMediaCrush.Parent" xml:space="preserve">
-    <value>tcFileUploaders</value>
-  </data>
-  <data name="&gt;&gt;tpMediaCrush.ZOrder" xml:space="preserve">
-    <value>14</value>
+    <value>12</value>
   </data>
   <data name="&gt;&gt;lblGe_ttStatus.Name" xml:space="preserve">
     <value>lblGe_ttStatus</value>
@@ -5339,7 +4994,7 @@ For example, if your bucket is called bucket.example.com then URL will be http:/
     <value>tcFileUploaders</value>
   </data>
   <data name="&gt;&gt;tpGe_tt.ZOrder" xml:space="preserve">
-    <value>15</value>
+    <value>13</value>
   </data>
   <data name="&gt;&gt;cbLocalhostrDirectURL.Name" xml:space="preserve">
     <value>cbLocalhostrDirectURL</value>
@@ -5426,7 +5081,7 @@ For example, if your bucket is called bucket.example.com then URL will be http:/
     <value>tcFileUploaders</value>
   </data>
   <data name="&gt;&gt;tpHostr.ZOrder" xml:space="preserve">
-    <value>16</value>
+    <value>14</value>
   </data>
   <data name="&gt;&gt;lblMinusURLType.Name" xml:space="preserve">
     <value>lblMinusURLType</value>
@@ -5501,7 +5156,7 @@ For example, if your bucket is called bucket.example.com then URL will be http:/
     <value>tcFileUploaders</value>
   </data>
   <data name="&gt;&gt;tpMinus.ZOrder" xml:space="preserve">
-    <value>17</value>
+    <value>15</value>
   </data>
   <data name="&gt;&gt;txtJiraIssuePrefix.Name" xml:space="preserve">
     <value>txtJiraIssuePrefix</value>
@@ -5573,7 +5228,7 @@ For example, if your bucket is called bucket.example.com then URL will be http:/
     <value>tcFileUploaders</value>
   </data>
   <data name="&gt;&gt;tpJira.ZOrder" xml:space="preserve">
-    <value>18</value>
+    <value>16</value>
   </data>
   <data name="&gt;&gt;lblLambdaInfo.Name" xml:space="preserve">
     <value>lblLambdaInfo</value>
@@ -5636,7 +5291,7 @@ For example, if your bucket is called bucket.example.com then URL will be http:/
     <value>tcFileUploaders</value>
   </data>
   <data name="&gt;&gt;tpLambda.ZOrder" xml:space="preserve">
-    <value>19</value>
+    <value>17</value>
   </data>
   <data name="&gt;&gt;chkEmailConfirm.Name" xml:space="preserve">
     <value>chkEmailConfirm</value>
@@ -5831,7 +5486,7 @@ For example, if your bucket is called bucket.example.com then URL will be http:/
     <value>tcFileUploaders</value>
   </data>
   <data name="&gt;&gt;tpEmail.ZOrder" xml:space="preserve">
-    <value>20</value>
+    <value>18</value>
   </data>
   <data name="&gt;&gt;lblSharedFolderFiles.Name" xml:space="preserve">
     <value>lblSharedFolderFiles</value>
@@ -5942,7 +5597,7 @@ For example, if your bucket is called bucket.example.com then URL will be http:/
     <value>tcFileUploaders</value>
   </data>
   <data name="&gt;&gt;tpSharedFolder.ZOrder" xml:space="preserve">
-    <value>21</value>
+    <value>19</value>
   </data>
   <data name="tcFileUploaders.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
     <value>Fill</value>
@@ -7046,6 +6701,273 @@ For example, if your bucket is called bucket.example.com then URL will be http:/
   </data>
   <data name="&gt;&gt;oauth2Box.ZOrder" xml:space="preserve">
     <value>5</value>
+  </data>
+  <data name="pbCopyLogo.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        /9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAIBAQIBAQICAgICAgICAwUDAwMDAwYEBAMFBwYHBwcGBwcI
+        CQsJCAgKCAcHCg0KCgsMDAwMBwkODw0MDgsMDAz/2wBDAQICAgMDAwYDAwYMCAcIDAwMDAwMDAwMDAwM
+        DAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAz/wAARCABAAMkDASIAAhEBAxEB/8QA
+        HwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIh
+        MUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVW
+        V1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXG
+        x8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQF
+        BgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAV
+        YnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOE
+        hYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq
+        8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD9/KKKKACiiigAopGcKeTS5oAKKKKACiisP4j/ABB0n4WeBdV8
+        Ra5dLZ6Vo1u11cyt/CqjoB3YnAA6kkDqaqMXKSjFXbM61aFKDq1GlGKbbeiSWrbfZHO/EX40x+FPir4N
+        8G2Kx3eueKp5pmjPSzsYIy807Y6ZbZGgPVnPUK2O8QkrzXxb/wAE2vFmqftQ/tEfEz4va1C0Ue2HRNIh
+        JDJZwsTKYR/tRxrb5YY3NNIeM4r7Ur084wKwVdYV/FFLm/xPVr5JpeqZ8vwbns86wUs1WlKpOXsls/Zx
+        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
+</value>
+  </data>
+  <data name="pbCopyLogo.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="pbCopyLogo.Location" type="System.Drawing.Point, System.Drawing">
+    <value>16, 16</value>
+  </data>
+  <data name="pbCopyLogo.Size" type="System.Drawing.Size, System.Drawing">
+    <value>216, 64</value>
+  </data>
+  <data name="pbCopyLogo.TabIndex" type="System.Int32, mscorlib">
+    <value>19</value>
+  </data>
+  <data name="&gt;&gt;pbCopyLogo.Name" xml:space="preserve">
+    <value>pbCopyLogo</value>
+  </data>
+  <data name="&gt;&gt;pbCopyLogo.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pbCopyLogo.Parent" xml:space="preserve">
+    <value>tpCopy</value>
+  </data>
+  <data name="&gt;&gt;pbCopyLogo.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="lblCopyURLType.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lblCopyURLType.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblCopyURLType.Location" type="System.Drawing.Point, System.Drawing">
+    <value>13, 344</value>
+  </data>
+  <data name="lblCopyURLType.Size" type="System.Drawing.Size, System.Drawing">
+    <value>55, 13</value>
+  </data>
+  <data name="lblCopyURLType.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="lblCopyURLType.Text" xml:space="preserve">
+    <value>URL type:</value>
+  </data>
+  <data name="&gt;&gt;lblCopyURLType.Name" xml:space="preserve">
+    <value>lblCopyURLType</value>
+  </data>
+  <data name="&gt;&gt;lblCopyURLType.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblCopyURLType.Parent" xml:space="preserve">
+    <value>tpCopy</value>
+  </data>
+  <data name="&gt;&gt;lblCopyURLType.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="cbCopyURLType.Location" type="System.Drawing.Point, System.Drawing">
+    <value>16, 360</value>
+  </data>
+  <data name="cbCopyURLType.Size" type="System.Drawing.Size, System.Drawing">
+    <value>121, 21</value>
+  </data>
+  <data name="cbCopyURLType.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;cbCopyURLType.Name" xml:space="preserve">
+    <value>cbCopyURLType</value>
+  </data>
+  <data name="&gt;&gt;cbCopyURLType.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;cbCopyURLType.Parent" xml:space="preserve">
+    <value>tpCopy</value>
+  </data>
+  <data name="&gt;&gt;cbCopyURLType.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="lblCopyStatus.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lblCopyStatus.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 9.75pt</value>
+  </data>
+  <data name="lblCopyStatus.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblCopyStatus.Location" type="System.Drawing.Point, System.Drawing">
+    <value>13, 393</value>
+  </data>
+  <data name="lblCopyStatus.Size" type="System.Drawing.Size, System.Drawing">
+    <value>45, 16</value>
+  </data>
+  <data name="lblCopyStatus.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="lblCopyStatus.Text" xml:space="preserve">
+    <value>Status</value>
+  </data>
+  <data name="&gt;&gt;lblCopyStatus.Name" xml:space="preserve">
+    <value>lblCopyStatus</value>
+  </data>
+  <data name="&gt;&gt;lblCopyStatus.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblCopyStatus.Parent" xml:space="preserve">
+    <value>tpCopy</value>
+  </data>
+  <data name="&gt;&gt;lblCopyStatus.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="lblCopyPath.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lblCopyPath.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblCopyPath.Location" type="System.Drawing.Point, System.Drawing">
+    <value>13, 296</value>
+  </data>
+  <data name="lblCopyPath.Size" type="System.Drawing.Size, System.Drawing">
+    <value>68, 13</value>
+  </data>
+  <data name="lblCopyPath.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="lblCopyPath.Text" xml:space="preserve">
+    <value>Upload path:</value>
+  </data>
+  <data name="&gt;&gt;lblCopyPath.Name" xml:space="preserve">
+    <value>lblCopyPath</value>
+  </data>
+  <data name="&gt;&gt;lblCopyPath.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblCopyPath.Parent" xml:space="preserve">
+    <value>tpCopy</value>
+  </data>
+  <data name="&gt;&gt;lblCopyPath.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="txtCopyPath.Location" type="System.Drawing.Point, System.Drawing">
+    <value>16, 312</value>
+  </data>
+  <data name="txtCopyPath.Size" type="System.Drawing.Size, System.Drawing">
+    <value>320, 20</value>
+  </data>
+  <data name="txtCopyPath.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;txtCopyPath.Name" xml:space="preserve">
+    <value>txtCopyPath</value>
+  </data>
+  <data name="&gt;&gt;txtCopyPath.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txtCopyPath.Parent" xml:space="preserve">
+    <value>tpCopy</value>
+  </data>
+  <data name="&gt;&gt;txtCopyPath.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="oAuthCopy.Location" type="System.Drawing.Point, System.Drawing">
+    <value>16, 88</value>
+  </data>
+  <data name="oAuthCopy.Size" type="System.Drawing.Size, System.Drawing">
+    <value>328, 208</value>
+  </data>
+  <data name="oAuthCopy.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;oAuthCopy.Name" xml:space="preserve">
+    <value>oAuthCopy</value>
+  </data>
+  <data name="&gt;&gt;oAuthCopy.Type" xml:space="preserve">
+    <value>ShareX.UploadersLib.OAuthControl, ShareX.UploadersLib, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;oAuthCopy.Parent" xml:space="preserve">
+    <value>tpCopy</value>
+  </data>
+  <data name="&gt;&gt;oAuthCopy.ZOrder" xml:space="preserve">
+    <value>6</value>
   </data>
   <data name="cbHubicPublishLink.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -8541,207 +8463,6 @@ For example, if your bucket is called bucket.example.com then URL will be http:/
   <data name="&gt;&gt;txtPushbulletUserKey.ZOrder" xml:space="preserve">
     <value>4</value>
   </data>
-  <data name="txtRapidShareFolderID.Location" type="System.Drawing.Point, System.Drawing">
-    <value>16, 128</value>
-  </data>
-  <data name="txtRapidShareFolderID.Size" type="System.Drawing.Size, System.Drawing">
-    <value>136, 20</value>
-  </data>
-  <data name="txtRapidShareFolderID.TabIndex" type="System.Int32, mscorlib">
-    <value>5</value>
-  </data>
-  <data name="&gt;&gt;txtRapidShareFolderID.Name" xml:space="preserve">
-    <value>txtRapidShareFolderID</value>
-  </data>
-  <data name="&gt;&gt;txtRapidShareFolderID.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;txtRapidShareFolderID.Parent" xml:space="preserve">
-    <value>tpRapidShare</value>
-  </data>
-  <data name="&gt;&gt;txtRapidShareFolderID.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="lblRapidShareFolderID.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="lblRapidShareFolderID.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="lblRapidShareFolderID.Location" type="System.Drawing.Point, System.Drawing">
-    <value>13, 112</value>
-  </data>
-  <data name="lblRapidShareFolderID.Size" type="System.Drawing.Size, System.Drawing">
-    <value>103, 13</value>
-  </data>
-  <data name="lblRapidShareFolderID.TabIndex" type="System.Int32, mscorlib">
-    <value>4</value>
-  </data>
-  <data name="lblRapidShareFolderID.Text" xml:space="preserve">
-    <value>Folder ID for upload:</value>
-  </data>
-  <data name="&gt;&gt;lblRapidShareFolderID.Name" xml:space="preserve">
-    <value>lblRapidShareFolderID</value>
-  </data>
-  <data name="&gt;&gt;lblRapidShareFolderID.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;lblRapidShareFolderID.Parent" xml:space="preserve">
-    <value>tpRapidShare</value>
-  </data>
-  <data name="&gt;&gt;lblRapidShareFolderID.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="btnRapidShareRefreshFolders.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="btnRapidShareRefreshFolders.Location" type="System.Drawing.Point, System.Drawing">
-    <value>16, 160</value>
-  </data>
-  <data name="btnRapidShareRefreshFolders.Size" type="System.Drawing.Size, System.Drawing">
-    <value>232, 23</value>
-  </data>
-  <data name="btnRapidShareRefreshFolders.TabIndex" type="System.Int32, mscorlib">
-    <value>6</value>
-  </data>
-  <data name="btnRapidShareRefreshFolders.Text" xml:space="preserve">
-    <value>Refresh folders list</value>
-  </data>
-  <data name="&gt;&gt;btnRapidShareRefreshFolders.Name" xml:space="preserve">
-    <value>btnRapidShareRefreshFolders</value>
-  </data>
-  <data name="&gt;&gt;btnRapidShareRefreshFolders.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;btnRapidShareRefreshFolders.Parent" xml:space="preserve">
-    <value>tpRapidShare</value>
-  </data>
-  <data name="&gt;&gt;btnRapidShareRefreshFolders.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="tvRapidShareFolders.Location" type="System.Drawing.Point, System.Drawing">
-    <value>16, 192</value>
-  </data>
-  <data name="tvRapidShareFolders.Size" type="System.Drawing.Size, System.Drawing">
-    <value>440, 264</value>
-  </data>
-  <data name="tvRapidShareFolders.TabIndex" type="System.Int32, mscorlib">
-    <value>7</value>
-  </data>
-  <data name="&gt;&gt;tvRapidShareFolders.Name" xml:space="preserve">
-    <value>tvRapidShareFolders</value>
-  </data>
-  <data name="&gt;&gt;tvRapidShareFolders.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TreeView, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;tvRapidShareFolders.Parent" xml:space="preserve">
-    <value>tpRapidShare</value>
-  </data>
-  <data name="&gt;&gt;tvRapidShareFolders.ZOrder" xml:space="preserve">
-    <value>3</value>
-  </data>
-  <data name="lblRapidSharePassword.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="lblRapidSharePassword.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="lblRapidSharePassword.Location" type="System.Drawing.Point, System.Drawing">
-    <value>13, 64</value>
-  </data>
-  <data name="lblRapidSharePassword.Size" type="System.Drawing.Size, System.Drawing">
-    <value>56, 13</value>
-  </data>
-  <data name="lblRapidSharePassword.TabIndex" type="System.Int32, mscorlib">
-    <value>2</value>
-  </data>
-  <data name="lblRapidSharePassword.Text" xml:space="preserve">
-    <value>Password:</value>
-  </data>
-  <data name="&gt;&gt;lblRapidSharePassword.Name" xml:space="preserve">
-    <value>lblRapidSharePassword</value>
-  </data>
-  <data name="&gt;&gt;lblRapidSharePassword.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;lblRapidSharePassword.Parent" xml:space="preserve">
-    <value>tpRapidShare</value>
-  </data>
-  <data name="&gt;&gt;lblRapidSharePassword.ZOrder" xml:space="preserve">
-    <value>4</value>
-  </data>
-  <data name="lblRapidSharePremiumUsername.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="lblRapidSharePremiumUsername.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="lblRapidSharePremiumUsername.Location" type="System.Drawing.Point, System.Drawing">
-    <value>13, 16</value>
-  </data>
-  <data name="lblRapidSharePremiumUsername.Size" type="System.Drawing.Size, System.Drawing">
-    <value>58, 13</value>
-  </data>
-  <data name="lblRapidSharePremiumUsername.TabIndex" type="System.Int32, mscorlib">
-    <value>0</value>
-  </data>
-  <data name="lblRapidSharePremiumUsername.Text" xml:space="preserve">
-    <value>Username:</value>
-  </data>
-  <data name="&gt;&gt;lblRapidSharePremiumUsername.Name" xml:space="preserve">
-    <value>lblRapidSharePremiumUsername</value>
-  </data>
-  <data name="&gt;&gt;lblRapidSharePremiumUsername.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;lblRapidSharePremiumUsername.Parent" xml:space="preserve">
-    <value>tpRapidShare</value>
-  </data>
-  <data name="&gt;&gt;lblRapidSharePremiumUsername.ZOrder" xml:space="preserve">
-    <value>5</value>
-  </data>
-  <data name="txtRapidSharePassword.Location" type="System.Drawing.Point, System.Drawing">
-    <value>16, 80</value>
-  </data>
-  <data name="txtRapidSharePassword.Size" type="System.Drawing.Size, System.Drawing">
-    <value>136, 20</value>
-  </data>
-  <data name="txtRapidSharePassword.TabIndex" type="System.Int32, mscorlib">
-    <value>3</value>
-  </data>
-  <data name="&gt;&gt;txtRapidSharePassword.Name" xml:space="preserve">
-    <value>txtRapidSharePassword</value>
-  </data>
-  <data name="&gt;&gt;txtRapidSharePassword.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;txtRapidSharePassword.Parent" xml:space="preserve">
-    <value>tpRapidShare</value>
-  </data>
-  <data name="&gt;&gt;txtRapidSharePassword.ZOrder" xml:space="preserve">
-    <value>6</value>
-  </data>
-  <data name="txtRapidShareUsername.Location" type="System.Drawing.Point, System.Drawing">
-    <value>16, 32</value>
-  </data>
-  <data name="txtRapidShareUsername.Size" type="System.Drawing.Size, System.Drawing">
-    <value>136, 20</value>
-  </data>
-  <data name="txtRapidShareUsername.TabIndex" type="System.Int32, mscorlib">
-    <value>1</value>
-  </data>
-  <data name="&gt;&gt;txtRapidShareUsername.Name" xml:space="preserve">
-    <value>txtRapidShareUsername</value>
-  </data>
-  <data name="&gt;&gt;txtRapidShareUsername.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;txtRapidShareUsername.Parent" xml:space="preserve">
-    <value>tpRapidShare</value>
-  </data>
-  <data name="&gt;&gt;txtRapidShareUsername.ZOrder" xml:space="preserve">
-    <value>7</value>
-  </data>
   <data name="btnSendSpaceRegister.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
@@ -8891,36 +8612,6 @@ For example, if your bucket is called bucket.example.com then URL will be http:/
   </data>
   <data name="&gt;&gt;atcSendSpaceAccountType.ZOrder" xml:space="preserve">
     <value>5</value>
-  </data>
-  <data name="cbMediaCrushDirectLink.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="cbMediaCrushDirectLink.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="cbMediaCrushDirectLink.Location" type="System.Drawing.Point, System.Drawing">
-    <value>16, 16</value>
-  </data>
-  <data name="cbMediaCrushDirectLink.Size" type="System.Drawing.Size, System.Drawing">
-    <value>187, 17</value>
-  </data>
-  <data name="cbMediaCrushDirectLink.TabIndex" type="System.Int32, mscorlib">
-    <value>10</value>
-  </data>
-  <data name="cbMediaCrushDirectLink.Text" xml:space="preserve">
-    <value>Direct link (Adds "/direct" to URL)</value>
-  </data>
-  <data name="&gt;&gt;cbMediaCrushDirectLink.Name" xml:space="preserve">
-    <value>cbMediaCrushDirectLink</value>
-  </data>
-  <data name="&gt;&gt;cbMediaCrushDirectLink.Type" xml:space="preserve">
-    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;cbMediaCrushDirectLink.Parent" xml:space="preserve">
-    <value>tpMediaCrush</value>
-  </data>
-  <data name="&gt;&gt;cbMediaCrushDirectLink.ZOrder" xml:space="preserve">
-    <value>0</value>
   </data>
   <data name="lblGe_ttStatus.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
